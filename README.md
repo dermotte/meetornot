@@ -1,4 +1,4 @@
-# meetornot
+# Meetornot - A simple Twine Game
 A simple Twine based story game
 
 Run at https://dermotte.github.io/meetornot/
