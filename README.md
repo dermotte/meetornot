@@ -1,5 +1,5 @@
 # Meetornot - A simple Twine Game
-Created for a lecture at Klagenfurt University, Austria
+A story based thing, created for a lecture at Klagenfurt University, Austria
 
 Run at https://dermotte.github.io/meetornot/
 
